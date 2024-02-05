@@ -14,3 +14,8 @@ Benvinguts al meu repository de Python.
 - [Bateria 1.3](bateria1-3.py)
 - [Bateria 1.4](bateria1-4.py)
 - [Bateria 1.5](bateria1-5.py)
+
+#### for.md
+- [funció FactoriL Bucle For](factorial-buclefor1.py)
+- [programa que pregunti un número i et tregui la seva taula de multiplicar]
+
