@@ -9,8 +9,8 @@ Benvinguts al meu repository de Python.
 - [Número Factorial](factorial.py)
 
 ### Bateria de programes
-- [Bateria 1.1]
-- [Bateria 1.2]
-- [Bateria 1.3]
-- [Bateria 1.4]
-- [Bateria 1.5]
+- [Bateria 1.1](bateria1-1.py)
+- [Bateria 1.2](bateria1-2.py)
+- [Bateria 1.3](bateria1-3.py)
+- [Bateria 1.4](bateria1-4.py)
+- [Bateria 1.5](bateria1-5.py)
