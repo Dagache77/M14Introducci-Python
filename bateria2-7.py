@@ -1,8 +1,8 @@
-numero_usuario = float(input("Ingrese un número: "))
+numero_usuari = float(input("Introdueix un número: "))
 
-if numero_usuario > 100:
-    print("El número ingresado es mayor que 100.")
-elif numero_usuario < 100:
-    print("El número ingresado es menor que 100.")
+if numero_usuari > 100:
+    print("El número introduït és major que 100.")
+elif numero_usuari < 100:
+    print("El número introduït és menor que 100.")
 else:
-    print("El número ingresado es igual a 100.")
+    print("El número introduït és igual a 100.")
