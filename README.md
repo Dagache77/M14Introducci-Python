@@ -23,11 +23,11 @@ Benvinguts al meu repository de Python.
 - [Bateria 2.10](bateria2-10.py)
 
 ##### Bateria de programes 3 - while
-- [Bateria 2.11](bateria2-11.py)
-- [Bateria 2.12](bateria2-12.py)
-- [Bateria 2.13](bateria2-13.py)
-- [Bateria 2.14](bateria2-14.py)
-- [Bateria 2.15](bateria2-15.py)
+- [Bateria 3.11](bateria3-11.py)
+- [Bateria 3.12](bateria3-12.py)
+- [Bateria 3.13](bateria3-13.py)
+- [Bateria 3.14](bateria3-14.py)
+- [Bateria 3.15](bateria3-15.py)
 
 
 ###### For.md
