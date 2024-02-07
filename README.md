@@ -30,7 +30,7 @@ Benvinguts al meu repository de Python.
 - [Bateria 3.15](bateria3-15.py)
 
 
-###### For.md
+##### For.md
 - [Funció Factorial Bucle For](factorial-buclefor1.py)
 - [Númerom Taula Multiplicar](multiplicaciónumero.py)
 
