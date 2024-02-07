@@ -41,5 +41,5 @@ Benvinguts al meu repository de Python.
 
 ##### String.md
 - [DNI](dni1.py)
-- [Número Telèfon](núm-telèfon2.py)
+- [Número Telèfon](num-telefon2.py)
 - [Llista de Paraules en bucle](llista-de-paraules3.py)
