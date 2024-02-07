@@ -32,5 +32,5 @@ Benvinguts al meu repository de Python.
 
 ###### For.md
 - [Funció Factorial Bucle For](factorial-buclefor1.py)
-- [Númerom Taula Multiplicar]
+- [Númerom Taula Multiplicar](multiplicaciónumero.py)
 
