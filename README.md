@@ -39,3 +39,7 @@ Benvinguts al meu repository de Python.
 - [Funció Factorial Bucle For](factorial-buclefor1.py)
 - [Número Taula Multiplicar](multiplicaciónumero.py)
 
+##### String.md
+- [DNI](dni1.py)
+- [Número Telèfon](núm-telèfon2.py)
+- [Llista de Paraules en bucle](llista-de-paraules3.py)
