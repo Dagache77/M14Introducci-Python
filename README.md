@@ -7,8 +7,8 @@ Benvinguts al meu repository de Python.
 
 - [Hello World](hello_world.py)
 ### seleccio.md
-- [1. Discoteca Cosmos](discoteca_cosmos1.py)
-- [2. Fa fred](fa.py
+- [1. Discoteca Cosmos](discoteca_cosmos.py)
+- [2. Fa fred](fa_fred.py)
 ### while.md
 - [Número Factorial](factorial.py)
 
