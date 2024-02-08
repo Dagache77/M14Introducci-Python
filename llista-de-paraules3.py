@@ -1,7 +1,8 @@
-paraules = []
-
-while 'final' not in paraules:
-    paraules.append(input("Introdueix una paraula: "))
-
-concatenacio = ' '.join(paraules[:-1])
-print(f"La concatenació de les paraules és: {concatenacio}")
+concaternar = ""
+while True:
+    lletra = input(Introdueix una paraula o final per acabar: ")
+    if "final" im lletra:
+        break
+    else:
+        concatenar = concatenar + " "
+print(concatenar)
