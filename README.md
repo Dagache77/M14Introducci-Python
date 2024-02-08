@@ -1,4 +1,4 @@
-# M14Introducci-Python
+# M14Introducció-Python
 Introducció a Python.
 
 Benvinguts al meu repository de Python.
