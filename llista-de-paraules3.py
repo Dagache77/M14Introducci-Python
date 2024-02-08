@@ -1,6 +1,6 @@
 concaternar = ""
 while True:
-    lletra = input(Introdueix una paraula o final per acabar: ")
+    lletra = input("Introdueix una paraula o final per acabar: ")
     if "final" im lletra:
         break
     else:
