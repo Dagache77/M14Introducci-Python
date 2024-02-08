@@ -6,6 +6,9 @@ Benvinguts al meu repository de Python.
 ## Els meus programes
 
 - [Hello World](hello_world.py)
+### seleccio.md
+- [1. Discoteca Cosmos](discoteca_cosmos1.py)
+- [2. Fa fred](fa.py
 ### while.md
 - [Número Factorial](factorial.py)
 
