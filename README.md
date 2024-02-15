@@ -42,11 +42,14 @@ Benvinguts al meu repository de Python.
 - [Bateria 4.18](bateria4-18.py)
 
 
-##### For.md
+### For.md
 - [Funció Factorial Bucle For](factorial-buclefor1.py)
 - [Número Taula Multiplicar](multiplicaciónumero.py)
 
-##### String.md
+### String.md
 - [DNI](dni1.py)
 - [Número Telèfon](num-telefon2.py)
 - [Llista de Paraules en bucle](llista-de-paraules3.py)
+
+### Activitats Arany
+- [Activitats Arany](comunitat.py)
