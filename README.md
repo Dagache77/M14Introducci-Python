@@ -60,4 +60,4 @@ Benvinguts al meu repository de Python.
 - [Activitats Arany](comunitat.py)
 
 ### Arcade naus
-- [Nau Arcade](nau-arcade.py)
+- [Nau Arcade](.png)
