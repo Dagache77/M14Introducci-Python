@@ -41,6 +41,11 @@ Benvinguts al meu repository de Python.
 - [Bateria 4.17](bateria4-17.py)
 - [Bateria 4.18](bateria4-18.py)
 
+### Bateria de programes 5 - Llistes (arrays)
+- [Bateria 5.19](bateria5-19.py)
+- [Bateria 5.20](bateria5-20.py)
+- [Bateria 5.21](bateria5-21.py)
+- [Bateria 5.22](bateria5-22.py)
 
 ### For.md
 - [Funció Factorial Bucle For](factorial-buclefor1.py)
