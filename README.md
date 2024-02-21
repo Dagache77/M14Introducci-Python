@@ -64,3 +64,6 @@ Benvinguts al meu repository de Python.
 
 ### Calculadora 
 - [Activitat extra Calculadora](calculadora.py)
+
+### Activitats Daus
+- [Activitat Daus](daus.py)
