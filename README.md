@@ -61,3 +61,6 @@ Benvinguts al meu repository de Python.
 
 ### Arcade naus
 - [Nau Arcade](pixilart-drawing.png)
+
+### Calculadora 
+- [Activitat extra Calculadora](calculadora.py)
