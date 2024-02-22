@@ -1,14 +1,14 @@
 import random
 
-def tirada_dau():
-    return random.randint(1, 6)
+def tirada_dau(cara_max):
+    return random.randint(1, cara_max)
 
-def daus_6():
-    n_tirades = int(input("Quant daus vols llençar: "))
-
-    for _ in range(n_tirades):
-        resultat = tirada_dau()
+def daus_x(cara_max, num_tirades):
+    for _ in range(num_tirades):
+        resultat = tirada_dau(cara_max)
         print(f"Resultat de la tirada: {resultat}")
 
-# Executar el programa
-daus_6()
+
+cara_max = int(input("Quantes cares té el dau: "))
+num_tirades = int(input("Quant daus vols llençar: "))
+daus_x(cara_max, num_tirades)
