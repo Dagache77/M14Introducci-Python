@@ -1,5 +1,4 @@
-# Guarda les funcions a un fitxer anomenat daus.py 
-# Crea un fitxer anomenat joc.py, aquest fitxer mostrarà un menú amb les següents opcions:
+# Guarda les funcions a un fitxer anomenat daus.py. Crea un fitxer anomenat joc.py, aquest fitxer mostrarà un menú amb les següents opcions:
 
 # Llençar un dau de 6 cares.
 # Llençar més d'un dau de 6 cares.
