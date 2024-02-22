@@ -67,3 +67,4 @@ Benvinguts al meu repository de Python.
 
 ### Generar números aleatoris
 - [Activitat Daus](daus.py)
+- [Activitat Joc](joc.py)
