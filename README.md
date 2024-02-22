@@ -65,5 +65,5 @@ Benvinguts al meu repository de Python.
 ### Calculadora 
 - [Activitat extra Calculadora](calculadora.py)
 
-### Activitats Daus
+### Generar números aleatoris
 - [Activitat Daus](daus.py)
