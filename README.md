@@ -70,7 +70,7 @@ Benvinguts al meu repository de Python.
 - [Activitat Joc](joc.py)
 
 ### excepcions.md
-- [Dos nombres i dividir-los](act1.py)
+- [Dos nombres divisió](act1.py)
 - [Converteix un nombre en un enter](act2.py)
-- [Dos valors i intenta sumar-los](act3.py)
-- [Llista amb alguns elements i demana a l'usuari un índex](act4.py)
+- [Dos valors suma](act3.py)
+- [Llista Elements](act4.py)
