@@ -68,3 +68,9 @@ Benvinguts al meu repository de Python.
 ### Generar números aleatoris
 - [Activitat Daus](daus.py)
 - [Activitat Joc](joc.py)
+
+### excepcions.md
+- [Dos nombres i dividir-los](act1.py)
+- [Converteix un nombre en un enter](act2.py)
+- [Dos valors i intenta sumar-los](act3.py)
+- [Llista amb alguns elements i demana a l'usuari un índex](act4.py)
