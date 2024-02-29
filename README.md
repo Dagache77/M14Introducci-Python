@@ -74,3 +74,7 @@ Benvinguts al meu repository de Python.
 - [Converteix un nombre en un enter](act2.py)
 - [Dos valors suma](act3.py)
 - [Llista Elements](act4.py)
+
+### asteriscs.md
+- [1-Moviment](moviment.py)
+- [2-Vides](vides.py)
