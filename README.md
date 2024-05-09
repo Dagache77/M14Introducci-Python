@@ -82,5 +82,5 @@ Benvinguts al meu repository de Python.
 ## Activitat puntuables:
 - [Activitat puntuable 1: Concurs de creació de cares gracioses](cara.py)
 - [Activitat puntuable 2: Joc 1 versus 1](joc1vs1.py)
-- # [Activitat puntuable 3:]
+- [Activitat puntuable 3:]
 - [SMX-A Clon de Flappy Bird](FlappyBird.py)
